@@ -1,0 +1,22 @@
+{
+  "name": "mc-player-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "player-info": "./bin/run.js"
+  },
+  "preferGlobal": true,
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "xConnorTV",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-api": "^0.0.3"
+  }
+}
