@@ -1,4 +1,4 @@
-#mc-player-cli
+##mc-player-cli
 
 Install the CLI globaly:
 ```node
